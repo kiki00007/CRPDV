@@ -9,4 +9,4 @@ The annotation is divided into three folders according to the training, verifica
 
 vehicle, x1, y2, w, h 
 
-x1 represents the normalized center point x coordinates, y2 represents the normalized center point y coordinates, w represents the normalized target frame width, h normalized target frame height.
+x1 represents the normalized center point x coordinates, y2 represents the normalized center point y coordinates, w represents the normalized box width, h normalized box height.
